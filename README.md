@@ -47,4 +47,4 @@ The table below summarizes the correctness (percentage of correctly retrieved wo
 - Mikolov, T., Yih, W.-t., & Zweig, G. (2013b).  
   *Linguistic Regularities in Continuous Space Word Representations.*  
   In Vanderwende, L., Daumé III, H., & Kirchhoff, K. (eds.), *Proceedings of the 2013 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)*, pp. 746–751.  
-  Association for Computational Linguistics. [Link](https://aclanthology.org/N13-1090)
+  Association for Computational Linguistics. [Link](https://aclanthology.org/N13-1090) 
