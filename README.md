@@ -1,6 +1,6 @@
 # NLP-Studies
 
-This repository contains experiments on **linguistic analogies** using vector operations on word embeddings.  
+This our repository that contains experiments on **linguistic analogies** using vector operations on word embeddings.  
 The goal is to evaluate the performance of two different strategies:
 
 **Most Similar (MS)**
